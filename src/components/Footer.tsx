@@ -1,5 +1,5 @@
 import React from 'react';
-import { Facebook, Twitter, Instagram } from 'lucide-react';
+import { Facebook, MessageCircle, Instagram } from 'lucide-react';
 
 const Footer: React.FC = () => {
   return (
@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">FieldFinder</h3>
+            <h3 className="text-lg font-semibold mb-4">CanchaLibre</h3>
             <p className="text-sm text-gray-400">Reserva tu cancha de fútbol en segundos. Sin llamadas, sin complicaciones.</p>
           </div>
           <div>
@@ -21,17 +21,17 @@ const Footer: React.FC = () => {
           </div>
           <div>
             <h4 className="text-lg font-semibold mb-4">Contacto</h4>
-            <p className="text-sm text-gray-400">Email: info@fieldfinder.com</p>
-            <p className="text-sm text-gray-400">Teléfono: +1 234 567 890</p>
+            <p className="text-sm text-gray-400">Email: canchalibre@gmail.com</p>
+            <p className="text-sm text-gray-400">Teléfono: +51 966 199 716</p>
           </div>
           <div>
             <h4 className="text-lg font-semibold mb-4">Síguenos</h4>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-white">
-                <Facebook className="w-6 h-6" />
+                <MessageCircle className="w-6 h-6" />
               </a>
               <a href="#" className="text-gray-400 hover:text-white">
-                <Twitter className="w-6 h-6" />
+                <Facebook className="w-6 h-6" />
               </a>
               <a href="#" className="text-gray-400 hover:text-white">
                 <Instagram className="w-6 h-6" />
@@ -40,7 +40,7 @@ const Footer: React.FC = () => {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-700 text-center">
-          <p className="text-sm text-gray-400">&copy; 2023 FieldFinder. Todos los derechos reservados.</p>
+          <p className="text-sm text-gray-400">&copy; 2024 CanchaLibre. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>

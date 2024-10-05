@@ -14,14 +14,14 @@ const Comparison: React.FC = () => {
   return (
     <section className="py-20 bg-gray-100">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold text-center mb-12">FieldFinder vs. Método Tradicional</h2>
+        <h2 className="text-3xl font-bold text-center mb-12">CanchaLibre vs. Método Tradicional</h2>
         <div className="overflow-x-auto">
           <table className="w-full bg-white shadow-lg rounded-lg overflow-hidden">
             <thead className="bg-green-600 text-white">
               <tr>
                 <th className="py-3 px-6 text-left">Característica</th>
                 <th className="py-3 px-6 text-center">Método Tradicional</th>
-                <th className="py-3 px-6 text-center">FieldFinder</th>
+                <th className="py-3 px-6 text-center">CanchaLibre</th>
               </tr>
             </thead>
             <tbody>

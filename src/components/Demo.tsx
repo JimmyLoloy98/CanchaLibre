@@ -4,12 +4,12 @@ const Demo: React.FC = () => {
   return (
     <section id="how-it-works" className="py-20 bg-gray-100">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold text-center mb-12">Cómo Funciona FieldFinder</h2>
+        <h2 className="text-3xl font-bold text-center mb-12">Cómo Funciona CanchaLibre</h2>
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="md:w-1/2 mb-8 md:mb-0">
             <img
               src="https://images.unsplash.com/photo-1543351611-58f69d7c1781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80"
-              alt="FieldFinder App Demo"
+              alt="CanchaLibre App Demo"
               className="rounded-lg shadow-lg"
             />
           </div>

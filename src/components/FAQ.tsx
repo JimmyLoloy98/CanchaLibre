@@ -4,7 +4,7 @@ import { ChevronDown, ChevronUp } from 'lucide-react';
 const faqs = [
   {
     question: '¿Es segura la app para hacer pagos?',
-    answer: 'Sí, FieldFinder utiliza sistemas de pago seguros y encriptados para proteger tu información financiera.',
+    answer: 'Sí, CanchaLibre utiliza sistemas de pago seguros y encriptados para proteger tu información financiera.',
   },
   {
     question: '¿Qué tipos de canchas están disponibles?',

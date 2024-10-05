@@ -4,7 +4,7 @@ const testimonials = [
   {
     name: 'Carlos Rodríguez',
     role: 'Jugador aficionado',
-    content: 'FieldFinder ha hecho que organizar partidos con mis amigos sea mucho más fácil. ¡Ya no perdemos tiempo buscando canchas disponibles!',
+    content: 'CanchaLibre ha hecho que organizar partidos con mis amigos sea mucho más fácil. ¡Ya no perdemos tiempo buscando canchas disponibles!',
   },
   {
     name: 'Ana Martínez',
@@ -14,7 +14,7 @@ const testimonials = [
   {
     name: 'Luis Gómez',
     role: 'Propietario de canchas',
-    content: 'Desde que usamos FieldFinder, nuestras reservas han aumentado y la gestión es mucho más eficiente. ¡Una excelente herramienta!',
+    content: 'Desde que usamos CanchaLibre, nuestras reservas han aumentado y la gestión es mucho más eficiente. ¡Una excelente herramienta!',
   },
 ];
 
