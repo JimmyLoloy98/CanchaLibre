@@ -1,8 +1,57 @@
-For all designs I ask you to make, have them be beautiful, not cookie cutter. Make webpages that are fully featured and worthy for production.
+Make a landing page with React, with these requirements:
 
-By default, this template supports JSX syntax with Tailwind CSS classes, React hooks, and Lucide React for icons. Do not install other packages for UI themes, icons, etc unless absolutely necessary or I request them.
 
-Use icons from lucide-react for logos.
-
-Use stock photos from unsplash where appropriate, only valid URLs you know exist. Do not download the images, only link to them in image tags.
-
+1. Propuesta de Valor Clara y Directa
+Ubicación prominente: Coloca la propuesta de valor en la parte superior de la página, en un lugar donde los usuarios puedan verla de inmediato (hero section).
+Mensaje breve y poderoso: Ejemplo: "Reserva tu cancha de fútbol en segundos. Sin llamadas, sin complicaciones."
+Beneficio inmediato: Resalta cómo la app facilita la vida del usuario (disponibilidad en tiempo real, pagos online, notificaciones).
+2. Call to Action (CTA) Claros
+Botón visible: Un botón de llamado a la acción claro y atractivo como "Únete a la Lista de Espera", "Descubre Más", o "Prueba la App".
+Posicionamiento: Repite los CTAs en diferentes partes de la página, no solo al principio.
+Urgencia o exclusividad: Puedes crear un sentido de urgencia, como "Reserva tu lugar para ser uno de los primeros en usar la app".
+3. Demo o Video Explicativo
+Video corto: Un video de 30-60 segundos mostrando cómo funciona la app y destacando los beneficios. Esto ayuda a visualizar la experiencia del usuario y demuestra el valor de la app.
+Interfaz de usuario: Si aún no tienes una app desarrollada, puedes crear un prototipo o maqueta que simule el flujo de la reserva de la cancha.
+4. Lista de Características Principales
+Presentación clara: Usa íconos o gráficos para representar las funciones más importantes de la app, como:
+Ver disponibilidad en tiempo real
+Reservar en solo unos clics
+Recibir confirmaciones automáticas
+Pagos seguros dentro de la app
+Promociones y descuentos exclusivos
+Resalta el valor: Asegúrate de que cada funcionalidad resuelva un problema específico de los usuarios.
+5. Prueba Social y Testimonios
+Testimonios: Incluso si aún no tienes usuarios reales, puedes incluir frases de jugadores o dueños de canchas con los que hayas hecho entrevistas, resaltando lo que les gustaría de la app.
+Logos o menciones: Si has tenido entrevistas con clubes, ligas o propietarios de canchas, menciona sus nombres o logos para aumentar la confianza.
+6. Comparativa o Solución de Problemas Actuales
+Antes vs Después: Puedes incluir una sección que muestre cómo se hacen las reservas actualmente (llamadas, WhatsApp, visitas en persona) y cómo la app soluciona esos problemas.
+Ejemplo gráfico: Un gráfico o tabla que compare la reserva manual con la reserva a través de la app (tiempo, facilidad, disponibilidad).
+7. Formulario de Registro
+Formulario simple: Permite que los usuarios interesados se inscriban en la lista de espera para ser notificados cuando la app esté disponible. Solicita solo la información esencial (nombre, email, teléfono).
+Incentivo para registrarse: Ofrece algo exclusivo para quienes se inscriban, como un descuento en su primera reserva o acceso anticipado a la app.
+8. Promociones y Descuentos
+Oferta especial: Un descuento o beneficio exclusivo por registrarse temprano en la app. Ejemplo: "Regístrate ahora y recibe un 10% de descuento en tu primera reserva."
+Programa de referidos: Ofrece a los usuarios la oportunidad de ganar algo (como descuentos adicionales) si refieren a sus amigos para que se inscriban.
+9. Capturas de Pantalla o Mockups
+Simulación visual: Incluir mockups o capturas de pantalla de cómo se vería la app, enfocándote en las partes más atractivas (por ejemplo, la interfaz de reserva, la disponibilidad en tiempo real, el pago).
+Mostrar el flujo: Muestra el paso a paso del proceso de reserva en imágenes simples para que los usuarios visualicen la facilidad de uso.
+10. Sección de Preguntas Frecuentes (FAQ)
+Resolver dudas comunes: Incluir una pequeña sección de FAQ que aborde posibles preguntas de los usuarios, como:
+¿Es segura la app para hacer pagos?
+¿Qué tipos de canchas están disponibles?
+¿Puedo cancelar o cambiar mi reserva?
+¿Hay promociones o descuentos al usar la app?
+11. Optimización Móvil
+Diseño responsivo: Asegúrate de que la landing page esté optimizada para móviles, ya que es probable que la mayoría de los usuarios la visiten desde sus teléfonos.
+Carga rápida: Asegúrate de que la página cargue rápidamente, especialmente en dispositivos móviles.
+12. Integración con Redes Sociales
+Botones de compartir: Facilita que los visitantes compartan la landing page en redes sociales para crear mayor visibilidad.
+Testimonios en redes sociales: Muestra interacciones o menciones que hayas recibido en redes, si es posible.
+13. Mapa de Canchas Cercanas
+Interacción: Puedes incluir un mapa que muestre las canchas disponibles en tu localidad (incluso de manera simulada o en forma de prototipo), para que los usuarios vean la cobertura de la app.
+14. Beneficios para Propietarios de Canchas
+Sección dedicada: Si tu landing page también apunta a captar el interés de los propietarios de canchas, incluye una sección que explique los beneficios para ellos:
+Automatización de reservas y pagos
+Menos cancelaciones
+Gestión de horarios en tiempo real
+Acceso a más clientes
