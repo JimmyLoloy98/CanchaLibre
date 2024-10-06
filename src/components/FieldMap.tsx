@@ -1,5 +1,5 @@
 import React from 'react';
-import { MapPin } from 'lucide-react';
+import { ArrowRight, MapPin } from 'lucide-react';
 
 const FieldMap: React.FC = () => {
   return (
@@ -9,7 +9,7 @@ const FieldMap: React.FC = () => {
         <div className="bg-white p-4 rounded-lg shadow-lg">
           <div className="aspect-w-16 aspect-h-9 mb-4">
             <img
-              src="src\assets\campo_de_basket.jpeg"
+              src="https://plus.unsplash.com/premium_photo-1667598736309-1ea3b0fb1afa?fm=jpg&q=60&w=900&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Mapa de canchas"
               className="w-full h-full object-cover rounded-lg"
             />
@@ -20,13 +20,16 @@ const FieldMap: React.FC = () => {
                 <div className="bg-gray-50 p-4 rounded-lg">
                   <div className="flex items-center mb-2">
                     <MapPin className="w-5 h-5 text-green-600 mr-2" />
-                    <span className="font-semibold">{field}</span>
+                    <span className="text-lg font-semibold">{field}</span>
                   </div>
-                  <p className="text-sm text-gray-600">A 1.5 km de tu ubicación</p>
+                  <p className="text-md text-gray-600">A 1.5 km de tu ubicación</p>
                 </div>
               </div>
             ))}
           </div>
+          <a href="https://maps.app.goo.gl/Q8ST2LvsBdPT6ug27" target="_blank" className="btn btn-secondary my-2 max-w-fit mx-auto flex items-center border-0">
+            Explora más locales deportivos<ArrowRight className="ml-2 w-5 h-5" />
+          </a>
         </div>
       </div>
     </section>

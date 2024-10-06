@@ -8,7 +8,7 @@ const Demo: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="md:w-1/2 mb-8 md:mb-0">
             <img
-              src="src\assets\campo_de_futbol.jpeg"
+              src="https://images.unsplash.com/photo-1586428268321-8e067843a113?fm=jpg&q=60&w=900&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="CanchaLibre App Demo"
               className="rounded-lg shadow-lg "
             />
