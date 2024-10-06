@@ -1,4 +1,5 @@
 import React from 'react';
+import { ArrowRight } from 'lucide-react';
 
 const testimonials = [
   {
@@ -32,6 +33,9 @@ const Testimonials: React.FC = () => {
             </div>
           ))}
         </div>
+        <a href="https://wa.me/51966199716" target="_blank" className="btn btn-secondary mt-4 max-w-fit mx-auto flex items-center border-0">
+          Dejanos tu comentario<ArrowRight className="ml-2 w-5 h-5" />
+        </a>
       </div>
     </section>
   );

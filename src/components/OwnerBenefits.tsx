@@ -23,7 +23,7 @@ const OwnerBenefits: React.FC = () => {
           ))}
         </div>
         <div className="mt-12 text-center">
-          <button className="btn btn-primary">Únete como Propietario</button>
+          <a className="btn btn-primary" href="https://forms.gle/97PcdarKpU7iPBoNA" >Únete como Propietario</a>
         </div>
       </div>
     </section>

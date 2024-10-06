@@ -10,10 +10,10 @@ const Hero: React.FC = () => {
         </h1>
         <p className="text-xl mb-8">Sin llamadas, sin complicaciones. Juega cuando quieras.</p>
         <div className="flex justify-center space-x-4">
-          <a href="https://wa.me/51966199716" target="_blank" className="btn btn-secondary">
+          <a href="https://forms.gle/97PcdarKpU7iPBoNA" target="_blank" className="btn btn-secondary">
             Unirme como propietario
           </a>
-          <a href="https://wa.me/51966199716" target="_blank" className="btn btn-primary flex items-center">
+          <a href="https://forms.gle/k5zFvGNuwQGodvor7" target="_blank" className="btn btn-primary flex items-center">
             Quiero reservar una cancha<ArrowRight className="ml-2 w-5 h-5" />
           </a>
         </div>

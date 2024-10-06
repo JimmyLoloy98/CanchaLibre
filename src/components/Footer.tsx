@@ -30,7 +30,7 @@ const Footer: React.FC = () => {
               <a href="https://wa.me/51966199716" target="_blank" className="text-gray-400 hover:text-white">
                 <MessageCircle className="w-6 h-6" />
               </a>
-              <a href="https://www.facebook.com/canchalibre" target="_blank" className="text-gray-400 hover:text-white">
+              <a href="https://www.facebook.com/canchalibre.pro" target="_blank" className="text-gray-400 hover:text-white">
                 <Facebook className="w-6 h-6" />
               </a>
               {/* <a href="#" className="text-gray-400 hover:text-white">

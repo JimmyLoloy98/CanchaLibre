@@ -4,23 +4,23 @@ import { ChevronDown, ChevronUp } from 'lucide-react';
 const faqs = [
   {
     question: '¿Es segura la app para hacer pagos?',
-    answer: 'Sí, CanchaLibre utiliza sistemas de pago seguros y encriptados para proteger tu información financiera.',
+    answer: 'Sí, CanchaLibre utiliza sistemas de pago seguros y encriptados para proteger tu información personal y financiera.',
   },
   {
     question: '¿Qué tipos de canchas están disponibles?',
-    answer: 'Ofrecemos una variedad de canchas, incluyendo fútbol 5, fútbol 7, y fútbol 11, tanto al aire libre como cubiertas.',
+    answer: 'Ofrecemos una variedad de canchas deportivas en nuestro servicio, que incluyen: fútbol, voley, basket, etc. Tanto al aire libre como cubiertas, tu elijes!',
   },
   {
     question: '¿Puedo cancelar o cambiar mi reserva?',
-    answer: 'Sí, puedes cancelar o modificar tu reserva hasta 24 horas antes del horario programado sin costo adicional.',
+    answer: 'Sí, puedes cancelar o modificar tu reserva hasta 6 horas antes del horario programado, sin costo adicional.',
   },
   {
     question: '¿Hay promociones o descuentos al usar la app?',
-    answer: 'Sí, ofrecemos promociones regulares y un programa de fidelidad para usuarios frecuentes con descuentos exclusivos.',
+    answer: 'Sí, ofrecemos promociones regulares y un programa de fidelidad para usuarios frecuentes con descuentos exclusivos. Para ti, como dueño de tu local deportivo, asi como también para tus clientes.',
   },
   {
     question: '¿Cómo puedo contactar con el soporte si tengo problemas?',
-    answer: 'Puedes contactar con nuestro equipo de soporte 24/7 a través del chat en la app o por correo electrónico.',
+    answer: 'Puedes contactar con nuestro equipo de soporte 24/7 a través del WhatsApp o por correo electrónico.',
   },
 ];
 

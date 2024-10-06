@@ -26,7 +26,7 @@ const Header: React.FC = () => {
           <a href="https://wa.me/51966199716" target="_blank" className="text-green-400 hover:text-green-600">
             <MessageCircle className="w-8 h-8" />
           </a>
-          <a href="https://www.facebook.com/canchalibre" target="_blank" className="text-blue-400 hover:text-blue-600">
+          <a href="https://www.facebook.com/canchalibre.pro" target="_blank" className="text-blue-400 hover:text-blue-600">
             <Facebook className="w-8 h-8" />
           </a>
         </div>
