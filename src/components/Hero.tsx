@@ -10,12 +10,12 @@ const Hero: React.FC = () => {
         </h1>
         <p className="text-xl mb-8">Sin llamadas, sin complicaciones. Juega cuando quieras.</p>
         <div className="flex justify-center space-x-4">
-          <button className="btn btn-secondary">
-            Únete a la Lista de Espera
-          </button>
-          <button className="btn btn-primary flex items-center">
-            Descubre Más <ArrowRight className="ml-2 w-5 h-5" />
-          </button>
+          <a href="https://wa.me/51966199716" target="_blank" className="btn btn-secondary">
+            Unirme como propietario
+          </a>
+          <a href="https://wa.me/51966199716" target="_blank" className="btn btn-primary flex items-center">
+            Quiero reservar una cancha<ArrowRight className="ml-2 w-5 h-5" />
+          </a>
         </div>
       </div>
     </section>
