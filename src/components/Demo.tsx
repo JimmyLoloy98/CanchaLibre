@@ -17,23 +17,19 @@ const Demo: React.FC = () => {
             <ol className="space-y-6">
               <li className="flex items-center">
                 <span className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center mr-4">1</span>
-                <p>Abre la app y selecciona tu ubicación</p>
+                <p className="md:text-lg">Abre al Chatbot y explora las canchas disponibles en tiempo real</p>
               </li>
               <li className="flex items-center">
                 <span className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center mr-4">2</span>
-                <p>Explora las canchas disponibles en tiempo real</p>
+                <p className="md:text-lg">Elige tu cancha, horario preferido y agendalo</p>
               </li>
               <li className="flex items-center">
                 <span className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center mr-4">3</span>
-                <p>Elige tu cancha y horario preferido</p>
+                <p className="md:text-lg">Realiza el pago de forma segura dentro de nuestro Chatbot</p>
               </li>
               <li className="flex items-center">
                 <span className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center mr-4">4</span>
-                <p>Realiza el pago de forma segura dentro de la app</p>
-              </li>
-              <li className="flex items-center">
-                <span className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center mr-4">5</span>
-                <p>¡Listo! Recibe la confirmación y prepárate para jugar</p>
+                <p className="md:text-lg">¡Listo! Recibe la confirmación y prepárate para jugar</p>
               </li>
             </ol>
           </div>
