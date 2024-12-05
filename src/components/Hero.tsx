@@ -10,8 +10,8 @@ const Hero: React.FC = () => {
         </h1>
         <p className="text-xl mb-8">Sin llamadas, sin complicaciones. Juega cuando quieras.</p>
         <div className="flex justify-center space-x-4">
-          <a href="#how-it-works" className="btn btn-secondary">
-            Quiero ver la demo!
+          <a href="https://eclectic-treacle-e61945.netlify.app" target="_blank" className="btn btn-secondary">
+            Quiero ver la demo! 🚀
           </a>
           <a href="https://api.whatsapp.com/send/?phone=51991691321&text&type=phone_number&app_absent=0" target="_blank" className="btn btn-primary flex items-center">
             Quiero reservar una cancha<ArrowRight className="ml-2 w-5 h-5" />
