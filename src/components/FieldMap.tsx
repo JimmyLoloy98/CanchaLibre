@@ -8,11 +8,7 @@ const FieldMap: React.FC = () => {
         <h2 className="text-3xl font-bold text-center mb-12">Canchas Cercanas</h2>
         <div className="bg-white p-4 rounded-lg shadow-lg">
           <div className="aspect-w-16 aspect-h-9 mb-4">
-            <img
-              src="https://plus.unsplash.com/premium_photo-1667598736309-1ea3b0fb1afa?fm=jpg&q=60&w=900&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-              alt="Mapa de canchas"
-              className="w-full h-full object-cover rounded-lg"
-            />
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d18728.914304254995!2d-76.0066083506962!3d-9.309396209034434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2spe!4v1734038908010!5m2!1sen!2spe" className="w-full h-72 md:max-w-3xl md:h-96 border mx-auto" loading="lazy"></iframe>
           </div>
           <div className="flex flex-wrap -mx-2">
             {['Grass Potokar', 'Morumbi', 'Los Laureles', 'Complejo UNAS'].map((field, index) => (
