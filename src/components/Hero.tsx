@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
         </h1>
         <p className="text-xl mb-10">Sin llamadas, sin complicaciones. Juega cuando quieras.</p>
         <div className="flex justify-center">
-          <a href="https://eclectic-treacle-e61945.netlify.app" target="_blank" className="btn btn-secondary flex md:min-w-96 items-center justify-center">
+          <a href="https://app.canchalibre.pro" target="_blank" className="btn btn-secondary flex md:min-w-96 items-center justify-center">
             Reservar ahora! 🚀 <ArrowRight className="ml-2 w-5 h-5" />
           </a>
         </div>
