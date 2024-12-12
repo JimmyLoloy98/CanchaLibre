@@ -16,7 +16,7 @@ const Comparison: React.FC = () => {
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-center mb-12">CanchaLibre vs. Método Tradicional</h2>
         <div className="overflow-x-auto">
-          <table className="w-full bg-white shadow-lg rounded-lg overflow-hidden">
+          <table className="w-full mx-auto md:max-w-5xl bg-white shadow-lg rounded-lg overflow-hidden">
             <thead className="bg-green-600 text-white">
               <tr>
                 <th className="py-3 px-6 text-left">Característica</th>

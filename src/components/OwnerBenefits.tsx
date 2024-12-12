@@ -23,7 +23,7 @@ const OwnerBenefits: React.FC = () => {
           ))}
         </div>
         <div className="mt-12 text-center">
-          <a className="btn btn-primary" target="_blank" href="https://forms.gle/97PcdarKpU7iPBoNA" >Únete como Propietario</a>
+          <a className="btn btn-primary" target="_blank" href="https://bit.ly/canchalibre-app" >Comenzar a gestionar mi cancha 🚀</a>
         </div>
       </div>
     </section>
